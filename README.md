@@ -2,6 +2,8 @@
 
 Meng Gaofeng, Wang Ying, Duan Jiangyong, Xiang Shiming, Pan Chunhong
 
+![](./images/fig.jpg)
+
 ### Abstract
 Images captured in foggy weather conditions often
 suffer from bad visibility. In this paper, we propose an efficient
