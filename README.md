@@ -18,3 +18,17 @@ haze-free image with faithful colors and fine image details.
 Experimental results on a variety of haze images demonstrate
 the effectiveness and efficiency of the proposed method.
 
+### Cite
+
+```
+@INPROCEEDINGS{6751186, 
+  author={G. Meng and Y. Wang and J. Duan and S. Xiang and C. Pan}, 
+  booktitle={IEEE International Conference on Computer Vision}, 
+  title={Efficient Image Dehazing with Boundary Constraint and Contextual Regularization}, 
+  year={2013}, 
+  volume={}, 
+  number={}, 
+  pages={617-624}, 
+  month={Dec},}
+```
+
